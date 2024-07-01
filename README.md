@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://discord.gg/brocode" target="_blank" rel="noopener noreferrer">Z HUD</a></h1>
+<h1 align="center"><a href="NIL" target="_blank" rel="noopener noreferrer">GZ HUD</a></h1>
 
 ![GZ- HUD Preview ((https://imgur.com/a/KdMoVJf))
 
